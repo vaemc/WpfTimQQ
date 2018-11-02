@@ -6,4 +6,4 @@ WPF仿TimQQ界面
 ![预览图](https://github.com/vaemc/WpfTimQQ/blob/master/tim2.gif)
 
 
-# 喜欢欢迎Star
+# 欢迎Star
