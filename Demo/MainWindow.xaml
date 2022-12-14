@@ -307,7 +307,7 @@
                                             >
                                     <TextBlock Text="账号  "
                                                Foreground="#B7B7B7" />
-                                    <TextBlock Text="vaemc520@qq.com" />
+                                    <TextBlock Text="xxxxxx@qq.com" />
                                 </StackPanel>
                                 <StackPanel Orientation="Horizontal"
                                             Margin="80 5 0 0 ">
@@ -325,7 +325,7 @@
                                             Margin="80 5 0 0 ">
                                     <TextBlock Text="邮箱  "
                                                Foreground="#B7B7B7" />
-                                    <TextBlock Text="vaemc520@qq.com" />
+                                    <TextBlock Text="xxxxxx@qq.com" />
                                 </StackPanel>
                                 <StackPanel Orientation="Horizontal"
                                             Margin="80 5 0 0 ">
